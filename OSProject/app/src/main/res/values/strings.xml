@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">OSProject</string>
+    <string-array name="Alg">
+        <item>First Come First Serve</item>
+        <item>Round Robin</item>
+        <item>Shortest Process Next</item>
+        <item>Shortest Remaining Time</item>
+        <item>Highest Response Ratio Next</item>
+        <item>Multi-Level Feedback</item>
+        <item>New Algorithm</item>
+    </string-array>
+</resources>
